@@ -1,1 +1,5 @@
 - [intro](README.md)
+- ch02
+  - [homework](ch02/homework/README.md)
+- ch03
+  - [homework](ch03/homework/README.md)

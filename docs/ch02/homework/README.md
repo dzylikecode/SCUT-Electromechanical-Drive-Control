@@ -13,11 +13,3 @@
 ## 2-12
 
 ## answer
-
-<details><summary>answer</summary>
-
-![](assets/2022-09-19-09-31-46.png)
-
-![](assets/2022-09-19-09-32-22.png)
-
-</details>
